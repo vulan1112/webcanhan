@@ -12,11 +12,9 @@ do gõ sai lệnh lên nỗi phải gõ lại.
 
 <img width="1561" height="969" alt="image" src="https://github.com/user-attachments/assets/62d31154-f597-4550-93d6-d34351a45fa8" />
 
-**2.1. cài nginx**
 
-**Kiểm tra nginx đã được cài trước đó hay chưa.**
+**2.Tạo app SHOP**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8551f787-6ddc-4a6b-a8b8-f1cc0b50b108" />
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7b2778a-5d56-4ee7-9d8b-1f817f12ec09" />
 
-**Cài nginx xong**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5039ea3-018a-4203-8cd2-c0ea03f8b0c9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1dcccd3-7015-4297-8183-05110b63b1ba" />

@@ -18,3 +18,16 @@ do gõ sai lệnh lên nỗi phải gõ lại.
 <img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7b2778a-5d56-4ee7-9d8b-1f817f12ec09" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1dcccd3-7015-4297-8183-05110b63b1ba" />
+
+**Trang admin trắng.**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f880f8e-3a95-44fa-a609-4d1284cc2b6c" />
+
+**Trang người bán trắng**
+
+<img width="1889" height="1080" alt="image" src="https://github.com/user-attachments/assets/8969b415-3c95-472c-a37f-df0e6e385f33" />
+
+**Trang mua hàng tạm**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58536a89-e4a3-4e57-a47c-477afbb2e6e3" />
+

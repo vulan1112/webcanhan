@@ -31,3 +31,10 @@ do gõ sai lệnh lên nỗi phải gõ lại.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58536a89-e4a3-4e57-a47c-477afbb2e6e3" />
 
+**node chạy chay trên cổng http://192.168.0.103/node.**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2378f82b-263a-4422-b01c-bfffe5c5cba2" />
+
+**Bước đầu cấu hình phân quyền**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a04edea-b4f6-45f9-9f8b-e62d8024e5ce" />

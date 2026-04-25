@@ -38,3 +38,15 @@ do gõ sai lệnh lên nỗi phải gõ lại.
 **Bước đầu cấu hình phân quyền**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a04edea-b4f6-45f9-9f8b-e62d8024e5ce" />
+
+<img width="1919" height="553" alt="image" src="https://github.com/user-attachments/assets/17665d8b-9561-4cd2-ba1b-eb3e4dbb4d74" />
+
+<img width="1920" height="1068" alt="image" src="https://github.com/user-attachments/assets/835beee3-d443-48ca-b430-f448a8aa96ee" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98475aed-14f1-48eb-ad0e-4fd617b3c59e" />
+
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/7ab5afb1-b4b8-4536-a932-7d1434c2afd1" />
+
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/e6895e44-420c-4840-9e1d-a8ee0784b6c2" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0372121a-4265-4389-bba2-250961f5fb5d" />

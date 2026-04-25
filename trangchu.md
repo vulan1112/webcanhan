@@ -50,3 +50,6 @@ do gõ sai lệnh lên nỗi phải gõ lại.
 <img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/e6895e44-420c-4840-9e1d-a8ee0784b6c2" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0372121a-4265-4389-bba2-250961f5fb5d" />
+
+**Kết nối mariadb**
+

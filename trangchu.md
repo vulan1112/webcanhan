@@ -60,3 +60,8 @@ do gõ sai lệnh lên nỗi phải gõ lại.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9b360db-1119-44ee-b91e-a1aa5062f786" />
 
 <img width="1920" height="407" alt="image" src="https://github.com/user-attachments/assets/61e9748a-21f0-4714-8d87-1dfdcef15875" />
+
+<img width="1920" height="1064" alt="image" src="https://github.com/user-attachments/assets/fa6dd7a1-f5cd-475a-8638-f33cb1e671bd" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f8553fb-bdcc-495a-a645-a5e337bd0f1c" />
+

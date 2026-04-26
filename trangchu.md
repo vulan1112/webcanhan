@@ -53,3 +53,10 @@ do gõ sai lệnh lên nỗi phải gõ lại.
 
 **Kết nối mariadb**
 
+<img width="1920" height="1068" alt="image" src="https://github.com/user-attachments/assets/d601e1af-ab91-49b4-9e5a-6addc6a29981" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c48e362-cfc0-4349-b14d-5b6f425d689b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9b360db-1119-44ee-b91e-a1aa5062f786" />
+
+<img width="1920" height="407" alt="image" src="https://github.com/user-attachments/assets/61e9748a-21f0-4714-8d87-1dfdcef15875" />

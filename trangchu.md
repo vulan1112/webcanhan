@@ -65,3 +65,6 @@ do gõ sai lệnh lên nỗi phải gõ lại.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f8553fb-bdcc-495a-a645-a5e337bd0f1c" />
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b079434a-192b-4931-a4be-1897c195ac8f" />
+

@@ -68,3 +68,4 @@ do gõ sai lệnh lên nỗi phải gõ lại.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b079434a-192b-4931-a4be-1897c195ac8f" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b514107-169c-41a4-bab8-e137dd3f672c" />

@@ -18,3 +18,11 @@
 **Cấu hình router lại và làm đẹp**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fee6e4c3-e41c-4145-8a97-69101b2fcf8c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d164d97-2041-4ec3-9f9d-26b97fe4ba8b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/92cec8a1-bde3-43d3-a4e1-7870f2fe01a6" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d7f1d12-1ebe-4611-a066-342ffe584fe9" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bfe2433-96f9-4f13-a973-f2f15da5d003" />
